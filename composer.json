@@ -1,0 +1,21 @@
+{
+  "name": "saquib/oop-php",
+  "description": "OOP PHP practice. Thanks to laracast",
+  "type": "practice",
+  "license": "Free - Open Source",
+  "authors": [
+    {
+      "name": "Saquibul Hassan Razib",
+      "email": "saquibulhassan@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Acme\\": "src/"
+    },
+    "classmap": [
+      "src/"
+    ]
+  }
+}
